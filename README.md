@@ -19,3 +19,4 @@ A Simple And Easy Nuke Bot To Use For Discord!
 # Usage<br>
 ● Fill Out The Config With Your Token And Prefix Of Choice<br>
 ● python zypher.py
+.
