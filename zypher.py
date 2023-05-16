@@ -356,6 +356,9 @@ async def unbanall(ctx):
         except:
             pass
 
+
+
+
 @Zypher.command()
 async def allatonce(ctx):
     await ctx.message.delete()
